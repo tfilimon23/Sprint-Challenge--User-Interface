@@ -268,6 +268,65 @@ footer {
     background: black;
 }
 
+.about{
+    margin: 20px;
+}
+
+.linebreak {
+    border: 1px dashed black;
+    margin-top: 20px;
+}
+
+.atop-pic{
+    display:flex;
+    flex-wrap:wrap;    
+    width: 800px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 35px 0 15px 0;
+}
+.atop-content{
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    justify-content:space-between;
+
+}
+
+.amiddle-pic{
+    display:flex;
+    flex-wrap: wrap;
+    width: 800px;
+    justify-content: space-between;
+    margin: 50px 0 50px 0;
+}
+
+.amiddle-content{
+    display:flex;
+    flex-wrap: wrap;
+    width: 800px;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.asections{
+    border-bottom: 1px dashed black;
+    width: 375px;
+    height: 160px;
+}
+
+button{
+    background:white;
+    border: 1px solid black;
+    border-radius: 15%;
+    margin-top: 10px;
+    padding: 7px 20px 7px 20px;
+}
+
+.abottom-content{
+    margin-bottom: 30px;
+}
+
 footer nav {
     width: 60%;
     display: flex;
