@@ -58,9 +58,8 @@ That following property works on the cross-axis.
 
 5. Explain why git is valuable to a team of developers.
 
-	
-Using git allows you to create branches off the master that way it keeps everything clean and organized as everyone is working on the specific project and only what is good from the branches would be then merged to the master. It also allows more people to work on a project simultaneously.
 
+Using git allows you to create branches off the master that way it keeps everything clean and organized as everyone is working on the specific project and only what is good from the branches would be then merged to the master. It also allows more people to work on a project simultaneously.
 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
